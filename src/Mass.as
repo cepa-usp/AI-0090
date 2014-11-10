@@ -33,7 +33,7 @@
 			
 			textFormat = new TextFormat();
 			textFormat.font = "Arial";
-			textFormat.size = 14;
+			textFormat.size = 18;
 		}
 		
 		public function get mass():int { return _mass; }

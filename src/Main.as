@@ -157,7 +157,7 @@
 			
 			textFormat = new TextFormat();
 			textFormat.font = "Arial";
-			textFormat.size = 14;
+			textFormat.size = 18;
 			
 			alertText = new TextField();
 			alertText.autoSize = TextFieldAutoSize.LEFT
@@ -188,7 +188,7 @@
 			
 			textFormat3 = new TextFormat();
 			textFormat3.font = "Arial";
-			textFormat3.size = 10;
+			textFormat3.size = 12;
 			textFormat3.color = 0xffffff;
 			textFormat3.bold = true;
 			index.defaultTextFormat = textFormat3;
