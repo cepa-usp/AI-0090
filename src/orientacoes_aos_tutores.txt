@@ -1,0 +1,13 @@
+AI-0090
+-------
+
+Objetivo da Atividade Interativa: exercitar o cálculo da energia potencial eletrostática.
+
+Objetivo do usuário: informar corretamente o valor da energia potencial eletrostática do sistema apresentado.
+
+Resolução: utilize as informações na tela para calcular a energia potencial eletrostática do sistema de cargas apresentado.
+
+Observações:
+1) Esta AI usa SCORM para notificar o LMS (moodle) quanto ao aproveitamento do usuário, numa escala de 0 a 100 (inteiros apenas). Este recurso é ativado quando o usuário seleciona a opção "valendo nota". 
+2) Para orientações quanto às intereções com a AI, veja o menu de orientações (botão "?").
+3) As cargas e as distâncias entre elas são escolhidas aleatoriamente a cada novo exercício.
